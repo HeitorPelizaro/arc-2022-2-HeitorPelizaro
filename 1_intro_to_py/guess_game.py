@@ -44,5 +44,6 @@ for run in range(tries):
 
         points -= abs(secret_number - guess)
 
+
 print(f"Pontuação: {points}")
 print("\nFim do Jogo!")
